@@ -2,6 +2,8 @@
 
 This is a really simple project that shows the usage of Next.js with [relay](https://relay.dev).
 
+Using Mock Server https://github.com/woochanleee/nestjs-graphql-example.
+
 ## Getting started
 
 ### 1. Download example and install dependencies
